@@ -1,0 +1,13 @@
+nombre  significado
+1.png   caballero
+2.png   dem
+3.png   samus
+4.png   hornet
+5.png   hunter
+6.png   bill
+7.png   undyne
+8.png   spamton
+9.png   space
+10.png   eye
+11.png   coolsamus
+12.png   landscape
